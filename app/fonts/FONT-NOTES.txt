@@ -1,0 +1,4 @@
+Requested Anton and Pacifico downloads failed because the environment's network proxy was unreachable.
+Local fallback: DejaVuSans-Bold.ttf for headings and DejaVuSerif.ttf (synthetic italic) for neon signatures.
+Both files come from the installed DejaVu distribution. See LICENSE-DejaVu.txt for the full license.
+No font is fetched by the application. No official game fonts are included.
