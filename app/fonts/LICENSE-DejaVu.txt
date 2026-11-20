@@ -1,8 +1,8 @@
-Font license excerpt from the installed Debian DejaVu copyright file.
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: DejaVu fonts
 Upstream-Author: Stepan Roh <src@users.sourceforge.net> (original author),
                   see /usr/share/doc/fonts-dejavu-core/AUTHORS for full list
-Source: dejavu-fonts.github.io
+Source: https://dejavu-fonts.github.io/
 
 Files: *
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. 

@@ -1,4 +1,9 @@
-Requested Anton and Pacifico downloads failed because the environment's network proxy was unreachable.
-Local fallback: DejaVuSans-Bold.ttf for headings and DejaVuSerif.ttf (synthetic italic) for neon signatures.
-Both files come from the installed DejaVu distribution. See LICENSE-DejaVu.txt for the full license.
-No font is fetched by the application. No official game fonts are included.
+Afterglow 本次实际字体方案
+
+已尝试在 15 秒超时内下载 Anton 与 Pacifico 字体，网络连接失败，未使用这两款字体。
+本地回退：
+- DejaVuSans-Bold.ttf：来自 /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf，供封面标题与品牌使用。
+- DejaVuSerif.ttf：来自 /usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf，供签名使用；CSS 与 Canvas 合成斜体。
+- 中文界面使用设备系统无衬线字体。
+完整许可证复制自 /usr/share/doc/fonts-dejavu-core/copyright，见 LICENSE-DejaVu.txt。
+所有字体由本地文件加载，无在线字体请求。
